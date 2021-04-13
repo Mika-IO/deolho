@@ -4,4 +4,4 @@ Web App para visualizar gastos públicos de Deputados e Senadores federais
 
 #### [API da Câmara dos deputados](https://dadosabertos.camara.leg.br/)
 
-#### [Dados do senado federal](https://legis.senado.leg.br/dadosabertos/docs/ui/index.html)
+#### [API do senado federal](https://legis.senado.leg.br/dadosabertos/docs/ui/index.html)
